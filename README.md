@@ -18,32 +18,6 @@ The project is split into two separate files:
 - Traditional ML approach using Naive Bayes
 - Deep Learning approach using LSTM networks
 
-## Requirements
-
-Install the required packages using:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-You can run each task separately:
-
-For Text Prediction:
-```bash
-python text_prediction.py
-```
-
-For Sentiment Classification:
-```bash
-python sentiment_classification.py
-```
-
-Each script will:
-1. Load and prepare the IMDB dataset
-2. Train both traditional and neural network models
-3. Evaluate the models
-4. Generate a comparison plot
 
 ## Results
 
