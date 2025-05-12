@@ -38,6 +38,3 @@ Each script will output:
 - Traditional: Naive Bayes with TF-IDF features
 - Neural Network: LSTM-based architecture with embedding layer
 
-## Note
-
-The current implementation uses a subset of the IMDB dataset (1000 samples) for demonstration purposes. You can modify the code to use the full dataset or other datasets by changing the data loading section in the main function of each script. 
